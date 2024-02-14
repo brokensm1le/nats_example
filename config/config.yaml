@@ -1,0 +1,11 @@
+Server:
+  AppVersion: "1.0.0"
+  Host: "0.0.0.0"
+  Port: "8080"
+
+Nats:
+  Host: "0.0.0.0"
+  Port: "4222"
+  Cluster: "my_cluster"
+  Client: "client"
+  Topic: "test"
